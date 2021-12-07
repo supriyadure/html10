@@ -1,0 +1,136 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+} 
+.first{
+    background-color: burlywood;
+    width: 100%;
+    height: 40vh;
+   
+}
+.first1{
+    position:absolute;
+    top: 10vh;
+    left: 25%;
+    text-align: center;
+    
+}
+a{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+a:hover {
+color: red;
+background-color: blueviolet;
+
+}
+.second{
+
+    background-color:crimson;
+    width: 100%;
+    height: 30vh;
+}
+.second h1{
+    text-align: center;
+    padding: 20px;
+}
+
+
+.second1 p{
+    position: absolute;
+    top: 50vh;
+    left: 0px;
+    width: 50%;
+    color: blanchedalmond;
+    padding: 20px;
+    text-align: center;
+}
+
+.second2 p{
+    position: absolute;
+    top: 52vh;
+    left:48%;
+    width:50%;
+    color: blanchedalmond;
+    padding: 10px;
+    
+    
+}
+
+.third{
+    background-color: cyan;
+    width: 100%;
+    height: 75vh;
+}
+.third1{position: absolute;
+    left: 200px;
+    top:80vh ;
+    width: 20%;
+    height: 55vh;
+    background-color:cornsilk;
+padding: 20px;
+}
+.third2{position: absolute;
+    left: 550px;
+    top:80vh ;
+    width: 20%;
+    height: 55vh;
+    background-color: cornsilk;
+padding: 20px;
+}
+.third3{position: absolute;
+    left: 900px;
+    top:80vh ;
+    width: 20%;
+    height: 60vh;
+    background-color:cornsilk;
+    padding-left: 20px;
+
+}
+.fourth{
+    background-color: red;
+    color: black;
+    width: 100%;
+    height: 30vh;
+margin: 0px;
+padding: 0px;
+
+
+}
+.fourth p{
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.fourth h2{
+    text-align: center;
+    padding: 30px;
+}
+
+
+.fifth{
+
+    background-color:blueviolet;
+    width: 50%;
+    height: 30vh;
+    text-align: center;
+
+}
+.sixth{
+    height: 30vh;
+    background-color:black;
+    position: absolute;
+top: 175vh;
+left: 50%;
+    width:50%;
+    text-align: center;
+    color: burlywood;
+
+}
+.footer{
+    background-color: burlywood;
+    text-align: center;
+}

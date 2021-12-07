@@ -1,0 +1,108 @@
+
+.first{
+    display: flex;
+    justify-content: space-around;
+}
+.first h1{
+    color: white;
+    line-height: 35px;
+    letter-spacing: 2px;
+    font: 1em sans-serif;
+    font-size: 40px;
+
+    
+}
+
+.first ul {
+    position: absolute;
+    top: 70px;
+    right: 100px;
+}
+.first ul li{ display: inline;
+    padding: 10px;
+
+}
+.first ul li a{
+    text-decoration: none;
+    color: white;
+}
+.second h1{
+    text-align: center;
+     margin-top: 150px;
+}
+.second p{
+text-align: center;
+}
+.second button{
+    position: absolute;
+    right: 700px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    
+}
+.sub{
+    width: 100%;
+    height: 500px;
+    background-color:#293f50;
+    color: white;
+}
+.left{
+    position: absolute;
+    
+    width: 300px;
+    height: 500px;
+    top: 500px;
+    left: 100px;
+    color: slategray;
+}
+.middle{
+    position: absolute;
+    color:slategray;
+    width: 300px;
+    height: 500px;
+    top: 500px;
+    left: 600px;
+}
+.right{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    top: 500px;
+    left: 1100px;
+    color: slategray;
+}
+h5{
+    margin-bottom: 1px;
+}
+ul li{
+    display: inline;
+}
+
+.bottom{
+    display: flex;
+justify-content: space-around;
+    color: white;
+    margin-top: 600px;
+    width:100%;
+    background-color: slategray;
+    height: 100px;
+    
+}
+.bottom a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+}
+.bottom h6{
+    font-size: 15px;
+}
+.bottom a:hover{
+    color: steelblue;
+}
+@media only screen and(max-width: 500){
+ {
+    
+} 
+}
